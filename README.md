@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Spacejager (Morley Tri Wahyudin)
 - 👀 I’m interested in Video Game industry
-- 🌱 I’m currently learning data visualization
+- 🌱 I’m currently learning data visualization And C#
 - 💞️ I’m looking to collaborate on TBD
 - 📫 How to reach me TBD
 
